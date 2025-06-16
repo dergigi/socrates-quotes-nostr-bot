@@ -8,6 +8,10 @@ A simple bot that posts random quotes from Socrates to Nostr. The quotes are sou
 - Random quote selection
 - Automated posting to Nostr
 
+## Follow on Nostr
+
+You can follow the bot on Nostr at [@Socrates Quotes](https://njump.me/npub1s0cra5735s8ccw7pfvqtp4see7t7lkfr0gwrfhkhsfakuxkf5ahs83023h)
+
 ## Usage
 
 To post a random quote:
